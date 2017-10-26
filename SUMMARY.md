@@ -4,16 +4,16 @@
 * [整体架构](zheng-ti-jia-gou.md)
   * [爬虫流程设计](zheng-ti-jia-gou/pa-chong-liu-cheng-she-ji.md)
   * [数据储存](zheng-ti-jia-gou/shu-ju-chu-cun.md)
-  * 爬取方式
+  * [爬取方式](zheng-ti-jia-gou/pa-qu-fang-shi.md)
 * [快速开始](kuai-su-kai-shi.md)
   * [下载和编译](kuai-su-kai-shi/xia-zai-he-bian-yi.md)
-  * 设置储存方式
-  * 运行
+  * [设置储存方式](kuai-su-kai-shi/she-zhi-chu-cun-fang-shi.md)
+  * [运行](kuai-su-kai-shi/yun-xing.md)
 * [编写基本爬虫](bian-xie-ji-ben-pa-chong.md)
   * [创建一个实现类](bian-xie-ji-ben-pa-chong/chuang-jian-yi-ge-shi-xian-lei.md)
   * [编写process方法](bian-xie-ji-ben-pa-chong/bian-xie-process-fang-fa.md)
-  * 设置爬取参数
-  * 开启爬虫
+  * [设置爬取参数](bian-xie-ji-ben-pa-chong/she-zhi-pa-qu-can-shu.md)
+  * [开启爬虫](bian-xie-ji-ben-pa-chong/kai-qi-pa-chong.md)
 * [结合API爬取数据](jie-he-api-pa-qu-shu-ju.md)
   * 设置API爬取
 * [数据存储](shu-ju-cun-chu.md)
