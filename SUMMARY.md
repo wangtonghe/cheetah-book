@@ -11,7 +11,7 @@
   * 运行
 * [编写基本爬虫](bian-xie-ji-ben-pa-chong.md)
   * [创建一个实现类](bian-xie-ji-ben-pa-chong/chuang-jian-yi-ge-shi-xian-lei.md)
-  * 编写process方法
+  * [编写process方法](bian-xie-ji-ben-pa-chong/bian-xie-process-fang-fa.md)
   * 设置爬取参数
   * 开启爬虫
 * [结合API爬取数据](jie-he-api-pa-qu-shu-ju.md)
