@@ -4,11 +4,11 @@
 
 ### 1. 下载器部分
 
-位于`downloader`包内，主要负责**下载网页**及下载时配置cookie、header等的操作。依赖\[httpclient\]\(http://hc.apache.org/\)类库。cheetah封装了下载操作，也就是说该部分对用户不可见。
+位于`downloader`包内，主要负责**下载网页**及下载时配置cookie、header等的操作。依赖[ httpclient](http://hc.apache.org/) 类库。cheetah封装了下载操作，也就是说该部分对用户不可见。
 
-### 2. 解析网页 
+### 2. 解析网页
 
-位于` selector ` 包内，用来解析下载来的网页并获取解析结果。解析过程依赖\[jsoup\]\(https://github.com/jhy/jsoup/\)类库。用户需在自己编写的爬虫类中使用此部分提供的API完成网页的解析操作，我们在稍后将会看到。
+位于`selector` 包内，用来解析下载来的网页并获取解析结果。解析过程依赖[jsoup](https://github.com/jhy/jsoup/)类库。用户需在自己编写的爬虫类中使用此部分提供的API完成网页的解析操作，我们在稍后将会看到。
 
 ### 3. 处理结果
 
