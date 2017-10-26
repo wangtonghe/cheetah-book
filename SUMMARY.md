@@ -3,7 +3,7 @@
 * [介绍](README.md)
 * [整体架构](zheng-ti-jia-gou.md)
   * [爬虫流程设计](zheng-ti-jia-gou/pa-chong-liu-cheng-she-ji.md)
-  * 数据储存
+  * [数据储存](zheng-ti-jia-gou/shu-ju-chu-cun.md)
   * 爬取方式
 * [快速开始](kuai-su-kai-shi.md)
   * 下载和编译
