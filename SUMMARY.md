@@ -18,8 +18,6 @@
   * [设置API爬取](jie-he-api-pa-qu-shu-ju/she-zhi-pa-qu-can-shu.md)
   * [获取爬取结果](jie-he-api-pa-qu-shu-ju/huo-qu-pa-qu-jie-guo.md)
 * [断点续爬](duan-dian-xu-pa.md)
-  * [开启断点续爬](duan-dian-xu-pa/kai-qi-duan-dian-xu-pa.md)
-  * [续爬参数解析](duan-dian-xu-pa/xu-pa-can-shu-jie-xi.md)
 * [爬虫定时器](pa-chong-ding-shi-qi.md)
 * [示例解析](shi-li-jie-xi.md)
   * [网易云音乐爬虫示例](shi-li-jie-xi/wang-yi-yun-yin-le-pa-chong-shi-li.md)
