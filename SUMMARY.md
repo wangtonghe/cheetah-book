@@ -8,17 +8,13 @@
 * [快速开始](kuai-su-kai-shi.md)
   * [下载和运行](kuai-su-kai-shi/xia-zai-he-bian-yi.md)
   * [设置储存方式](kuai-su-kai-shi/she-zhi-chu-cun-fang-shi.md)
-  * [运行](kuai-su-kai-shi/yun-xing.md)
-* [编写基本爬虫](bian-xie-ji-ben-pa-chong.md)
+* [构建爬虫](bian-xie-ji-ben-pa-chong.md)
   * [创建一个实现类](bian-xie-ji-ben-pa-chong/chuang-jian-yi-ge-shi-xian-lei.md)
   * [编写process方法](bian-xie-ji-ben-pa-chong/bian-xie-process-fang-fa.md)
   * [设置爬取参数](bian-xie-ji-ben-pa-chong/she-zhi-pa-qu-can-shu.md)
   * [开启爬虫](bian-xie-ji-ben-pa-chong/kai-qi-pa-chong.md)
 * [结合API爬取数据](jie-he-api-pa-qu-shu-ju.md)
-  * 设置API爬取
-* [数据存储](shu-ju-cun-chu.md)
-  * ElasticSearch储存
-  * Redis储存
+  * [设置API爬取](jie-he-api-pa-qu-shu-ju/she-zhi-api-pa-qu.md)
 * [断点续爬](duan-dian-xu-pa.md)
   * [开启断点续爬](duan-dian-xu-pa/kai-qi-duan-dian-xu-pa.md)
   * [续爬参数解析](duan-dian-xu-pa/xu-pa-can-shu-jie-xi.md)
